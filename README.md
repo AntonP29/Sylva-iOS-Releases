@@ -60,6 +60,8 @@ We provide a convenient web-based signer to install Sylva directly onto your dev
 
 Made by **AntonP29**.
 
+Powered by **zsign** and **backloop.dev**.
+
 ---
 
 ## Support / Donate
