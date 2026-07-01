@@ -50,6 +50,13 @@ We provide a convenient web-based signer to install Sylva directly onto your dev
 
 ---
 
+## Todo sylva
+
+- [ ] Add requirements to read me on public repo
+- [ ] Made by Antonp29
+
+---
+
 ## Support / Donate
 
 If you enjoy using Sylva, support the development on Cash App: [cash.app/$AntonP29](https://cash.app/$AntonP29)
