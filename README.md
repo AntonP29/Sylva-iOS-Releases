@@ -50,10 +50,15 @@ We provide a convenient web-based signer to install Sylva directly onto your dev
 
 ---
 
-## Todo sylva
+## Requirements
 
-- [ ] Add requirements to read me on public repo
-- [ ] Made by Antonp29
+- iOS 26.4 or later.
+- A valid Apple Developer signing certificate (`.p12`) and provisioning profile (`.mobileprovision`) to sign and install the IPA.
+- Safari on iOS is recommended when using the web signer.
+
+## Credits
+
+Made by **AntonP29**.
 
 ---
 
